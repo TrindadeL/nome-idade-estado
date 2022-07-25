@@ -1,0 +1,5 @@
+nome = "Lucas"
+idade = "30"
+estado = "Bahia"
+
+print("O " + nome + " tem " + str(idade) + " anos de idade e mora na " + estado + " . ")
